@@ -1,0 +1,3 @@
+4. Narzędzia odwzorowania obiektowo - relacyjnego np. Hiberate, Oracle TopLink, Microsoft ADO.NET Entity Framework, ActiveRecord lub innego.
+
+W części teoretycznej należy omówić mechanizm działania mapowania obiektowo-relacyjnego wraz z metodami służącymi do sterowania procesem odwzorowania (np. XML, adnotacje). Należy przedstawić przykłady przedstawiające różne sposoby odwzorowania dziedziczenia (Table Per Class Hierarchy, itd.) i asocjacji (jednokierunkowej / dwukierunkowej, one to one, one to many, many to many, itp.). Do przykładów powinny zostać dołączone schematy baz danych powstałych w wyniku zastosowania tego narzędzia. W części praktycznej należy opracować aplikację wykorzystującą dane odwzorowanie.
